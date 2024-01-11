@@ -26,7 +26,8 @@ Front-end, QM
 ---
 
 #### 🤔 other...
-<div style="display:flex; align-items:center; justify-content:center; padding: 10% 0">
+<div align="center">
+<br/><br/>
 <!-- 
 <div style="display:flex; align-items:center; padding: 0 24px">
 
@@ -36,10 +37,11 @@ Front-end, QM
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8ark-dev)  
 
-</div>
-
+<br/><br/>
 ![coolfin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=8ark-dev&show_icons=true&theme=dark#gh-dark-mode-only)
 
+
+</div>
 
 
 
