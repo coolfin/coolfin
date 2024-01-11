@@ -1,22 +1,44 @@
 #### Hi there 👋
 
-  QM , Web Front-end Developer
+Front-end, QM
 
 --- 
-#### 📚Learning 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
+#### 📚 Learning 
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
 
-#### 👾Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/microsoftteams-6264A7?style=for-the-badge&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=React&logoColor=white"/> 
+#### 👾 Tools
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=React&logoColor=white)
+![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=React&logoColor=white) 
+![MICROSOFT TEAMS](https://img.shields.io/badge/microsoftteams-6264A7?style=for-the-badge&logo=React&logoColor=white) 
+![SLACK](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=React&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 --- 
 
-#### 💪🏽Working at
+#### 💪🏽 Working at
 * AlgorithmLabs (2021.12 - 2022.02)
 * Elice (2022.12 - 2023.06)
-<!--
---- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sorlti6952)](https://solved.ac/sorlti6952/)
+* SSAFY (2024.01 - )
+
+---
+
+#### 🤔 other...
+<div style="display:flex; align-items:center; justify-content:center; padding: 10% 0">
+<!-- 
+<div style="display:flex; align-items:center; padding: 0 24px">
+
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=sorlti6952)
+
+</div> -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8ark-dev)  
+
+</div>
+
+![coolfin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=8ark-dev&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
 
