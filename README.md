@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-Front-end, QM
+Front-end, QM 
 
 --- 
 #### 📚 Learning 
@@ -24,8 +24,20 @@ Front-end, QM
 * SSAFY (2024.01 - )
 
 ---
+<!--
+#### 🔎 More about me
 
-#### 🤔 other...
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=opsgenie.svg&icon_color=%23E7E7E7&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
+
+<a href="https://coolfin.notion.site/Resume-ca0f5b56231747e6bc1760d9cde1d6f1?pvs=4">
+<img style="margin-right: 5px" target="_blank" src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=Notion&logoColor=white"/> </a><a href="https://coolfin.tistory.com/"> <img target="_blank" src="https://img.shields.io/badge/Tistory-red?style=flat-square&logo=Tistory&logoColor=white"/> </a>
+</div>
+
+---> 
+#### 🤔 others
+
 <div align="center">
 <br/><br/>
 <!-- 
