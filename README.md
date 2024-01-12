@@ -35,10 +35,10 @@ Front-end, QM
 
 </div> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8ark-dev)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolfin)  
 
 <br/><br/>
-![coolfin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=8ark-dev&show_icons=true&theme=dark#gh-dark-mode-only)
+![coolfin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=coolfin&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
 </div>
@@ -46,7 +46,7 @@ Front-end, QM
 
 
 <!--
-**8ark-dev/8ark-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**coolfin/coolfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
